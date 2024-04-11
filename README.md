@@ -37,6 +37,15 @@ This project is [Not Open](LICENSE).
 
 
 
+
+## Project Demos
+- Backend for the fast api application [House Prediction backend](https://github.com/kaybrian/House_price_prediction_Class_presentation.git)
+- Mobile application for the fast api application [House Prediction app](https://github.com/kaybrian/pred_house_price.git)
+- Live api for the backend [House Prediction live backend](https://predict-housing-prices.onrender.com/)
+- Video recording for the application [mobile application](https://drive.google.com/file/d/1MsEGzJ9pML1joj-99-zE-DH9pER4kZSi/view?usp=sharing)
+
+
+
 ## Authors 
 
 - [Kayongo Johnson Brian](https://github.com/kaybrian)
